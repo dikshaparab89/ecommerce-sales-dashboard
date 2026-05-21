@@ -78,7 +78,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard-preview.png)
+![Dashboard Preview](E-Commerce_Sales_Dashboard/Screenshots/dashboard-preview.png)
 
 ---
 
